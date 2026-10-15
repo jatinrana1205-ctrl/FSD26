@@ -19,7 +19,8 @@ function App() {
        {/* <ImdbCard /> */}
      {/* <StateHandling /> */}
      {/* <Imagemanipulation /> */}
-     {<SampleUseEffect/>}
+     {/*<SampleUseEffect/> */}
+     <Shopping/>
     </div>
   )
 }
